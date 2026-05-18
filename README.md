@@ -7,7 +7,7 @@
 ---
 
 <!-- Typing SVG - Line 1 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=F7F7F7&center=true&vCenter=true&width=2000&height=100&lines=⚡+Hey+there+👋+I'm+Roshan+(ROZZ);👨🏻‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=F7F7F7&center=true&vCenter=true&width=2000&height=300&lines=⚡+Hey+there+👋+I'm+Roshan+(ROZZ);👨🏻‍💻)](https://git.io/typing-svg)
 
 <!-- Typing SVG - Line 2 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=✅+Full+Stack+Dev+%26+Software+Dev+Enthusiast+✔️;🔥+React+%7C+Next.js+%7C+TypeScript+%7C+Node.js+%7C+Python;💻+Building+real+products+for+real+clients+🚀;🤖+Passionate+Coder%2C+AI+Explorer%2C+Gamer...)](https://git.io/typing-svg)
