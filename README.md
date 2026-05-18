@@ -5,7 +5,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%2C%20I'm%20ROSHAN!&fontAlign=40&fontAlignY=40&color=gradient)
 
 ---
-
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Roshan S
+=================================================================================================================================
 <!-- Typing SVG - Line 1 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=2000&color=F7F7F7&center=true&vCenter=true&width=990&height=100&lines=⚡+Hey+there+👋+I'm+Roshan+(ROZZ);👨)](https://git.io/typing-svg)
 
