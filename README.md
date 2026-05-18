@@ -64,7 +64,6 @@
 - 🚀 Already shipped production projects — real clients, real deployments
 - 💼 Full Stack Developer with live employment offer | React · TypeScript · Next.js · Node.js · Python · Firebase
 - 🤖 Building AI-powered tools and exploring LLM infrastructure
-- 🎮 Free Fire player | POCO M7 5G | 3-finger setup + gyro
 
 <details>
   <summary><b>Hobbies</b></summary>
@@ -268,7 +267,7 @@ Check out all my projects on my GitHub profile! [View Repositories](https://gith
       </a>
     </td>
     <td>
-      <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+      <a href="mailto:Roshan200628@gmail.com" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="gmail" height="30" width="40" />
       </a>
     </td>
@@ -294,9 +293,7 @@ Check out all my projects on my GitHub profile! [View Repositories](https://gith
         src="https://montasim-github-readme-activity-graph.vercel.app/graph?username=Roshan282005&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
 </div>
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Roshan282005/Roshan282005/output/github-contribution-grid-snake-dark.svg)
 
-![Roshan282005 github activity graph](https://raw.githubusercontent.com/Roshan282005/Roshan282005/output/github-contribution-grid-snake.svg)
 
 <div align="center">
     <img loading="lazy" width="100%" alt="footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
