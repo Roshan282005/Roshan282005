@@ -97,7 +97,7 @@
 <a href="https://github.com/Roshan282005">
   <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub" />
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:Roshan200628@gmail.com">
   <img src="https://img.shields.io/badge/Email-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email" />
 </a>
 
