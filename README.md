@@ -151,6 +151,21 @@ const ROZZ = {
 
 ---
 
+# [💡 Most Used Skills](https://github.com/Roshan282005#-most-used-skills)
+
+<table align="center">
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50"></td>
+    <td><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50"></td>
+    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50"></td>
+    <td><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50"></td>
+    <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50"></td>
+    <td><img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50"></td>
+  </tr>
+</table>
+
+---
+
 ## 🐍 Contribution Snake
 
 
