@@ -5,8 +5,9 @@
 <!-- <img src="https://your-banner-url.png" width="100%" alt="ROZZ Banner" /> -->
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Roshan+S+%F0%9F%91%8B;Coder+ROZZ;Full+Stack+Developer;Trainer+%40+BBI;Builder+of+Things+That+Ship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?family=Doto:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap&size=40&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Roshan+S+%F0%9F%91%8B;Coder+ROZZ;Full+Stack+Developer;Trainer+%40+BBI;Builder+of+Things+That+Ship" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Chennai%2C+Tamil+Nadu-%2310B981?style=flat-square&logo=google-maps&logoColor=white" />
