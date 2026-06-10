@@ -1,9 +1,9 @@
 name: Generate Snake
 
-on:
-schedule:
-- cron: "0 0 * * *"
-workflow_dispatch:
+'on':
+  workflow_dispatch:
+   schedule:
+  - cron: "0 0 * * *"
 
 jobs:
 generate:
@@ -29,4 +29,3 @@ steps:
       build_dir: dist
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
